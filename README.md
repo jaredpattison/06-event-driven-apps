@@ -6,24 +6,22 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [repo](https://github.com/jaredpattison/06-event-driven-apps)
+* [travis](https://www.travis-ci.com/jaredpattison/06-event-driven-apps)
+
 
 ### Modules
-#### `modulename.js`
+#### `app.js`
 ##### Exported Values and Methods
 
-###### `foo(thing) -> string`
+###### `Reads text file, transforms to upperCase`
 Usage Notes or examples
 
-###### `bar(array) -> array`
+###### `Writes text file`
 Usage Notes or examples
 
 
 #### Running the app
-* `npm start`
 * From command line: node app.js ./test.txt
 
 #### Tests
