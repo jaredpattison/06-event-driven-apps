@@ -1,9 +1,9 @@
 'use strict';
 
-const events = require('../lib/events');
+// const events = require('../lib/events');
 const logger = require('../lib/logger');
 
-describe('loggere', () => {
+describe('logger', () => {
 
   it('throws an error on file-error with payload', () => {
     expect(() => {
